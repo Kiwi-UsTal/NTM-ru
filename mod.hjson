@@ -1,0 +1,15 @@
+name: "ntm-ru"
+displayName: "NTM - На русском"
+author: "*Киви*"
+version: "2.8 1.0"
+minGameVersion: "136"
+subtitle: "Перевод"
+description: '''
+Перевод мода Ntm
+
+Благодарности:
+hacker_pentagon (Китайский Котик)
+Koctz34 (Ion - 7274, автор Оригинала)
+'''
+hidden: true
+dependencies: [ntm]
